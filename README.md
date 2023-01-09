@@ -3,7 +3,7 @@
 
 This is the backend part of the online tutorial platform
 
-# Technologies used
+## Technologies used
 
 Nest Js
 
